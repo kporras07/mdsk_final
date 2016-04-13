@@ -30,7 +30,7 @@
   "extensions": {
     "aquifer-git": {
       "source": "aquifer-git",
-      "remote": "",
+      "remote": "ssh://codeserver.dev.16bc1343-f6be-4b02-80f4-04e93bc7fc6c@codeserver.dev.16bc1343-f6be-4b02-80f4-04e93bc7fc6c.drush.in:2222/~/repository.git",
       "branch": "master",
       "name": "CI Bot",
       "email": "ci@estudiomanati.com",
