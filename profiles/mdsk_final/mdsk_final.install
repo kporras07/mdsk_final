@@ -1,0 +1,11 @@
+<?php
+/**
+ * @file
+ * Install, update and uninstall functions for MDSK Final profile.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function mdsk_final_install() {
+}
